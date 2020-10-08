@@ -23,6 +23,7 @@ namespace Task_Manager.Areas.User.Controllers
         public IActionResult Edit(int id)
         {
             var entity = id == default ? new Goal() : dataManager.Goals.GetGoalById(id);
+            
             return View(entity);
         }
 
@@ -31,15 +32,15 @@ namespace Task_Manager.Areas.User.Controllers
         {
             if (ModelState.IsValid)
             {
-               // dataManager.Goals.SaveGoal(goal);
+              
 
                 var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
                 var user = dataManager.Users.GetUserById(userId);
                 goal.User = user;
-                user.Goals.Add(goal);
-                //dataManager.Goals.Add(goal);
+           
+               
                 dataManager.Goals.SaveGoal(goal);
-                dataManager.Users.SaveUser(user);
+                
                 return RedirectToAction("Index", "Home");
             }
             return View(goal);

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Task_Manager.Models;
+using Task_Manager.Services;
 
 namespace Task_Manager.Controllers
 {
@@ -32,6 +33,11 @@ namespace Task_Manager.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+
+        public IActionResult Contacts()
+        {
+            return View(new Config());
         }
     }
 }
