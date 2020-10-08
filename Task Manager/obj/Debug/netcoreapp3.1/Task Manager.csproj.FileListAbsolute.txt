@@ -1,0 +1,349 @@
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Task Manager.exe
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.TagHelpers.input.cache
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.TagHelpers.output.cache
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\staticwebassets\Task Manager.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\staticwebassets\Task Manager.StaticWebAssets.xml
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.csproj.CopyComplete
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Task Manager.deps.json
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Task Manager.runtimeconfig.json
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Task Manager.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Task Manager.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Task Manager.pdb
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Task Manager.Views.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Task Manager.Views.pdb
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.Views.pdb
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.pdb
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HeaderPartial.cshtml.g.cs
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ScriptsPartial.cshtml.g.cs
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FooterPartial.cshtml.g.cs
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\Account\Registration.cshtml.g.cs
+C:\Users\Admin\Desktop\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Task Manager.exe
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Task Manager.deps.json
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Task Manager.runtimeconfig.json
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Task Manager.runtimeconfig.dev.json
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Task Manager.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Task Manager.pdb
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Task Manager.Views.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Task Manager.Views.pdb
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.csprojAssemblyReference.cache
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.AssemblyInfoInputs.cache
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.AssemblyInfo.cs
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.RazorAssemblyInfo.cache
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.RazorAssemblyInfo.cs
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.TagHelpers.input.cache
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.TagHelpers.output.cache
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.RazorCoreGenerate.cache
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\Account\Registration.cshtml.g.cs
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FooterPartial.cshtml.g.cs
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HeaderPartial.cshtml.g.cs
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ScriptsPartial.cshtml.g.cs
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.RazorTargetAssemblyInfo.cache
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.RazorTargetAssemblyInfo.cs
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.Views.pdb
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.csproj.CopyComplete
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\staticwebassets\Task Manager.StaticWebAssets.Manifest.cache
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\staticwebassets\Task Manager.StaticWebAssets.xml
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.pdb
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.genruntimeconfig.cache
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.csproj.CoreCompileInputs.cache
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Task Manager.MvcApplicationPartsAssemblyInfo.cache
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\_ViewImports.cshtml.g.cs
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\_ViewStart.cshtml.g.cs
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Home\Index.cshtml.g.cs
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Goals\Edit.cshtml.g.cs
