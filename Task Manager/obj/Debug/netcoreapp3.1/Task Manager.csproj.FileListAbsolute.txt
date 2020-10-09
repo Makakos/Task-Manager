@@ -348,3 +348,4 @@ D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Raz
 D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Home\Index.cshtml.g.cs
 D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Goals\Edit.cshtml.g.cs
 D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contacts.cshtml.g.cs
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Goals\Index.cshtml.g.cs

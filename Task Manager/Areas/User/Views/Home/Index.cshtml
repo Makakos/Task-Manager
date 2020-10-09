@@ -13,23 +13,25 @@
         </div>
         @if (Model.Goals!=null)
         {
+    <div>
+        @foreach (Goal entity in Model.Goals)
+        {
+           
             <div>
-                @foreach (Goal entity in Model.Goals)
-                {
-                    <div>
-                        <a asp-area="User" asp-controller="Goals" asp-action="Edit" asp-route-id="@entity.Id">редактировать</a>
-                        |
-                        <form style="display: inline-block;" id="form-@entity.Id" asp-area="User" asp-controller="Goals" asp-action="Delete" method="post">
-                            <input type="hidden" name="id" value="@entity.Id">
-                            <a href="#" onclick="document.getElementById('form-@entity.Id').submit();">удалить</a>
-                        </form>
-                        |
-                        <a asp-area="User" asp-controller="Goal" asp-action="Index" asp-route-id="@entity.Id">
-                            @($"{entity.Title}")
-                        </a>
-                    </div>
-                }
+
+                <a asp-area="User" asp-controller="Goals" asp-action="Index" asp-route-id="@entity.Id">
+                    @($"{entity.Title}")
+                </a>
+                |
+                <a asp-area="User" asp-controller="Goals" asp-action="Edit" asp-route-id="@entity.Id">редактировать</a>
+                |
+                <form style="display: inline-block;" id="form-@entity.Id" asp-area="User" asp-controller="Goals" asp-action="Delete" method="post">
+                    <input type="hidden" name="id" value="@entity.Id">
+                    <a href="#" onclick="document.getElementById('form-@entity.Id').submit();">удалить</a>
+                </form>
             </div>
+        }
+    </div>
         }
     </div>
     @*<div class="div-box">

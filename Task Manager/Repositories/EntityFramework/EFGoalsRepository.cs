@@ -42,6 +42,12 @@ namespace Task_Manager.Repositories.EntityFramework
            applicationContext.SaveChanges();
         }
 
-        
+        public List<Goal> GetUserGoals(string id)
+        {
+            var result = new List<Goal>();
+            foreach (var el in applicationContext.Goals.Where(x => x.UserId == id))
+                result.Add(el);
+            return result;
+        }
     }
 }

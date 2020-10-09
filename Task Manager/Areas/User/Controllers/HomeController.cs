@@ -20,7 +20,7 @@ namespace Task_Manager.Areas.User.Controllers
         {
             var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
             var user = manager.Users.GetUserById(userId);
-            user.Goals = manager.Goals.GetGoals().ToList();
+            user.Goals = manager.Goals.GetUserGoals(userId);
             return View(user);
         }
     }

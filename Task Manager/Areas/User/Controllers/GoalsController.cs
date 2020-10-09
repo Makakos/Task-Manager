@@ -5,6 +5,7 @@ using System.Security.Claims;
 using System.Threading.Tasks;
 using DocumentFormat.OpenXml.InkML;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Task_Manager.Models;
 using Task_Manager.Services;
 
@@ -15,15 +16,29 @@ namespace Task_Manager.Areas.User.Controllers
     {
         private readonly DataManager dataManager;
 
+        public IEnumerable<string> categories = new List<string>
+        {
+            "Каждый день" ,
+            "Дедлайн",
+            "Дела на сегодня",
+            "Общее"
+        };
+
         public GoalsController(DataManager manager)
         {
             dataManager = manager;
         }
+       public IActionResult Index(int id)
+       {
+            var entity = dataManager.Goals.GetGoalById(id);
+            return View(entity);
+        }
+
 
         public IActionResult Edit(int id)
         {
             var entity = id == default ? new Goal() : dataManager.Goals.GetGoalById(id);
-            
+            ViewBag.Categories = new SelectList(categories);
             return View(entity);
         }
 
@@ -47,3 +62,4 @@ namespace Task_Manager.Areas.User.Controllers
         }
     }
 }
+

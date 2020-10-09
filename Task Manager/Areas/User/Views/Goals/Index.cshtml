@@ -1,0 +1,42 @@
+﻿@model Task_Manager.Models.Goal
+
+@{
+    ViewData["Title"] = "Task Manager";
+}
+
+
+
+<div>
+    <h1>Goal</h1>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Category)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Category)
+        </dd>
+        <dt class="col-sm-2">
+            @if (Model.ScheduledTime != null) { @Html.DisplayNameFor(model => model.ScheduledTime); }
+        </dt>
+        <dd class="col-sm-10">
+            @if (Model.ScheduledTime != null) { @Html.DisplayFor(model => model.ScheduledTime); }
+        </dd>
+        <dt class="col-sm-2">
+            @if (Model.Notes != null) { @Html.DisplayNameFor(model => model.Notes); }
+        </dt>
+        <dd class = "col-sm-10">
+            @if (Model.Notes != null) { @Html.DisplayFor(model => model.Notes); }
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-controller="Home" asp-action="Index">Back to List</a>
+</div>

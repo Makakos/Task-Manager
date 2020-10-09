@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.AspNetCore.Mvc;
 using Task_Manager.Models;
 
@@ -37,7 +39,9 @@ namespace Task_Manager.Controllers
                 var result = await userManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {
- 
+
+                    await userManager.AddToRoleAsync(user, "User");
+
                     await signInManager.SignInAsync(user, false);
                     return RedirectToAction("Index", "Home");
                 }
