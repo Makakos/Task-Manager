@@ -31,6 +31,7 @@ namespace Task_Manager.Areas.User.Controllers
        public IActionResult Index(int id)
        {
             var entity = dataManager.Goals.GetGoalById(id);
+            ViewBag.Categories = categories;
             return View(entity);
         }
 
@@ -59,6 +60,13 @@ namespace Task_Manager.Areas.User.Controllers
                 return RedirectToAction("Index", "Home");
             }
             return View(goal);
+        }
+
+        public void Delete(int id)
+        {
+                dataManager.Goals.DeleteGoal(id);
+                //return View();
+            
         }
     }
 }

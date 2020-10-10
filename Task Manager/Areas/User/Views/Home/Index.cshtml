@@ -6,45 +6,52 @@
 
 <div>
     <h2>@strTitle</h2>
-    <div>
-        <h3>Ваши цели,@Model.UserName</h3>
-        <div class="div-box">
-            <a asp-area="User" asp-controller="Goals" asp-action="Edit" asp-route-id="">Добавить задачу</a>
-        </div>
-        @if (Model.Goals!=null)
-        {
-    <div>
-        @foreach (Goal entity in Model.Goals)
-        {
-           
-            <div>
-
-                <a asp-area="User" asp-controller="Goals" asp-action="Index" asp-route-id="@entity.Id">
-                    @($"{entity.Title}")
-                </a>
-                |
-                <a asp-area="User" asp-controller="Goals" asp-action="Edit" asp-route-id="@entity.Id">редактировать</a>
-                |
-                <form style="display: inline-block;" id="form-@entity.Id" asp-area="User" asp-controller="Goals" asp-action="Delete" method="post">
-                    <input type="hidden" name="id" value="@entity.Id">
-                    <a href="#" onclick="document.getElementById('form-@entity.Id').submit();">удалить</a>
-                </form>
+       <div>
+            <h3>Ваши цели,@Model.UserName</h3>
+            <div class="div-box">
+                    <a class="btn btn-primary" asp-area="User" asp-controller="Goals" asp-action="Edit" asp-route-id="">
+                        Добавить задачу
+                    </a>
             </div>
-        }
-    </div>
-        }
-    </div>
-    @*<div class="div-box">
-        <h3>Редактировать страницы сайта</h3>
-        <a asp-area="Admin" asp-controller="TextFields" asp-action="Edit" asp-route-codeWord="PageIndex">Главная</a>
-        <a asp-area="Admin" asp-controller="TextFields" asp-action="Edit" asp-route-codeWord="PageServices">Наши услуги</a>
-        <a asp-area="Admin" asp-controller="TextFields" asp-action="Edit" asp-route-codeWord="PageContacts">Контакты</a>
-    </div>*@
-    <div class="div-box">
-        <form asp-area="" asp-controller="Account" asp-action="Logout" method="post">
-            <input type="submit" value="Выйти" />
-        </form>
-    </div>
+            </br>
+                @if (Model.Goals!=null)
+                 {
+       <div class="col-12">
+                       @foreach (Goal entity in Model.Goals)
+                       {
+                          
+                           @if (entity.Category == "Каждый день")
+                           {
+                               <form class="p-2 form-group border border-light rounded bg-warning col-4 " style="display: inline-block;">
+                                   @await Html.PartialAsync("GoalViewParticial", entity)
+                               </form>
+                           }
+                           else if (entity.Category == "Общее")
+                           {
+                               <form class="p-2 form-group border border-light rounded bg-dark col-4 " style="display: inline-block;">
+                                   @await Html.PartialAsync("GoalViewParticial", entity)
+                               </form>
+                           }
+                           else if (entity.Category == "Дедлайн")
+                           {
+                               <form class="p-2 form-group border border-light rounded bg-danger col-4 " style="display: inline-block;">
+                                   @await Html.PartialAsync("GoalViewParticial", entity)
+                               </form>
+                           }
+                           else if (entity.Category == "Дела на сегодня")
+                           {
+                               <form class="p-2 form-group border border-light rounded bg-info col-4 " style="display: inline-block;">
+                                   @await Html.PartialAsync("GoalViewParticial", entity)
+                               </form>
+                           }
+
+                           
+      }
+       </div>
+                 }
+       </div>
+
+      
 </div>
 
 
