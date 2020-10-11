@@ -12,6 +12,7 @@ namespace Task_Manager.Repositories.Abstruct
         List<Goal> GetUserGoals(string id);
         Goal GetGoalById(int id);
         void SaveGoal(Goal entity);
-        void DeleteGoal(int id);
+        void DeleteGoalById(int id);
+        void DeleteGoal(Goal goal);
     }
 }

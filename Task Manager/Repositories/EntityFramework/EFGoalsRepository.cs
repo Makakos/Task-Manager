@@ -36,7 +36,7 @@ namespace Task_Manager.Repositories.EntityFramework
             applicationContext.SaveChanges();
         }
 
-        public void DeleteGoal(int id)
+        public void DeleteGoalById(int id)
         {
            applicationContext.Goals.Remove(new Goal { Id = id });
            applicationContext.SaveChanges();
@@ -48,6 +48,11 @@ namespace Task_Manager.Repositories.EntityFramework
             foreach (var el in applicationContext.Goals.Where(x => x.UserId == id))
                 result.Add(el);
             return result;
+        }
+        public void DeleteGoal(Goal goal)
+        {
+            applicationContext.Entry(goal).State = EntityState.Deleted;
+            applicationContext.SaveChanges();
         }
     }
 }

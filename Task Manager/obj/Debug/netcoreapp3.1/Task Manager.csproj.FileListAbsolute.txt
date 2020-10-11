@@ -350,3 +350,4 @@ D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Raz
 D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contacts.cshtml.g.cs
 D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Goals\Index.cshtml.g.cs
 D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Shared\GoalViewParticial.cshtml.g.cs
+D:\Универ\C#\ASP.NET\Task Manager\Task Manager\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Goals\Delete.cshtml.g.cs

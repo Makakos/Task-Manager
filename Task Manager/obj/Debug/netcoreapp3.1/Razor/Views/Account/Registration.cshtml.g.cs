@@ -34,7 +34,7 @@ using Task_Manager.Services;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d17f43fcac78ecf60f521f66afc9d9e869f1b41c", @"/Views/Account/Registration.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"2e2e534b26a51867b25b5cd7a14c356644caf3a7", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"47ea8dfb1805e914b24059cde35d867f03075077", @"/Views/_ViewImports.cshtml")]
     public class Views_Account_Registration : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<Task_Manager.Models.RegistrationViewModel>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("method", "post", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);

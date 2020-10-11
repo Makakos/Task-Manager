@@ -37,7 +37,7 @@ namespace Task_Manager.Controllers
 
         public IActionResult Contacts()
         {
-            return View(new Config());
+            return View();
         }
     }
 }
