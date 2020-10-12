@@ -8,10 +8,10 @@ namespace Task_Manager.Models
 {
     public class RegistrationViewModel
     {
-        [Display(Name = "Имя")]
+        [Display(Name = "Name")]
         public string Name { get; set; }
 
-        [Display(Name = "Год рождения")]
+        [Display(Name = "Birth year")]
         public int Year { get; set; }
 
         [Required]
@@ -19,17 +19,17 @@ namespace Task_Manager.Models
         public string Email { get; set; }
 
         [Required]
-        [Display(Name = "Пароль")]
+        [Display(Name = "Password")]
         [DataType(DataType.Password)]
         public string Password { get; set; }
 
         [Required]
-        [Display(Name = "Подтвердите пароль")]
+        [Display(Name = "Confirm password")]
         [DataType(DataType.Password)]
-        [Compare("Password",ErrorMessage ="Пароли не совпадают")]
+        [Compare("Password",ErrorMessage = "Passwords do not match")]
         public string PasswordConfirm { get; set; }
 
-        [Display(Name = "Телефон")]
+        [Display(Name = "Phone number")]
         public string PhoneNumber { get; set; }
     }
 }

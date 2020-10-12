@@ -46,6 +46,7 @@ namespace Task_Manager
                 options.Password.RequireLowercase = false;
                 options.Password.RequireUppercase = false;
                 options.Password.RequireDigit = false;
+                options.User.AllowedUserNameCharacters = "àáâãäå¸æçèéêëìíîïğñòóôõö÷øùúûüışÿÀÁÂÃÄÅ¨ÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞß";
             }).AddEntityFrameworkStores<ApplicationContext>();
 
             services.ConfigureApplicationCookie(options =>

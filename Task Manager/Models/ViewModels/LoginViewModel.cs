@@ -13,11 +13,11 @@ namespace Task_Manager.Models
         public string Email { get; set; }
 
         [Required]
-        [Display(Name = "Пароль")]
+        [Display(Name = "Password")]
         [DataType(DataType.Password)]
         public string Password { get; set; }
 
-        [Display(Name = "Запомнить меня?")]
+        [Display(Name = "Remember me?")]
         public bool IsRemember { get; set; }
     }
 }

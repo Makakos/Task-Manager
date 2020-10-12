@@ -1,18 +1,17 @@
 ﻿@model Goal
 
 <a class="text-light" asp-area="User" asp-controller="Goals" asp-action="Index" asp-route-id="@Model.Id">
-    <h5> @($"{Model.Title}")</h5>
+    <h5 style="display:inline"> @($"{Model.Title}")</h5>
 </a>
 
+
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
-<label class="custom-control custom-checkbox">
+<label style="display:block" class="custom-control custom-checkbox">
     <input type="checkbox" class="custom-control-input">
     <span class="custom-control-indicator"></span>
 </label>
 
-<a class="text-light text-right" asp-area="User" asp-controller="Goals" asp-action="Edit" asp-route-id="@Model.Id">редактировать</a>
-                            |
-<form  style="display: inline-block;" id="form-@Model.Id" >
-    <input type="hidden" name="id" value="@Model.Id">
-    <a class="text-light" href="#" onclick="document.getElementById('form-@Model.Id').submit();">удалить</a>
-</form>
+<a class="text-light text-right" asp-area="User" asp-controller="Goals" asp-action="Edit" asp-route-id="@Model.Id">edit</a>
+|
+<a class="text-light text-right" asp-area="User" asp-controller="Goals" asp-action="Delete" asp-route-id="@Model.Id">delete</a>
+

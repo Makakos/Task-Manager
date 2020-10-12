@@ -27,7 +27,7 @@ using Task_Manager.Services;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"6eb886b5b3b6ec98c47db15a87efd2fd0359d2d6", @"/Areas/User/Views/Goals/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"99dd6b7061112e56b9d2578c6dc41a50df7fa0d5", @"/Areas/User/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c11f7ae2f2790fb71169253f7c3496cbbef8051e", @"/Areas/User/Views/_ViewImports.cshtml")]
     public class Areas_User_Views_Goals_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<Task_Manager.Models.Goal>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-action", "Edit", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);

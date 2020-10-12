@@ -11,17 +11,17 @@ namespace Task_Manager.Models
         public int Id { get; set; }
 
         [Required]
-        [Display(Name ="Задача")]
+        [Display(Name ="Task")]
         public string Title { get; set; }
 
         [Required]
-        [Display(Name = "Категория")]
+        [Display(Name = "Category")]
         public string Category { get; set; }
 
-        [Display(Name = "Запланированное время на задачу")]
+        [Display(Name = "Scheduled time for a task")]
         public string ScheduledTime { get; set; }
 
-        [Display(Name = "Заметки")]
+        [Display(Name = "Notes")]
         public string Notes { get; set; }
 
         public string UserId { get; set; }

@@ -1,55 +1,74 @@
 ﻿@model User
 @{
-    string strTitle = "Личный кабинет";
+    string strTitle = "Your tasks";
     ViewBag.Title = strTitle;
 }
 
 <div>
-    <h2>@strTitle</h2>
-       <div>
-            <h3>Ваши цели,@Model.UserName</h3>
-            <div class="div-box">
-                    <a class="btn btn-primary" asp-area="User" asp-controller="Goals" asp-action="Edit" asp-route-id="">
-                        Добавить задачу
-                    </a>
-            </div>
-            </br>
-                @if (Model.Goals!=null)
-                 {
-       <div class="col-12">
-                       @foreach (Goal entity in Model.Goals)
-                       {
-                          
-                           @if (entity.Category == "Каждый день")
-                           {
-                               <form class="p-2 form-group border border-light rounded bg-warning col-4 " style="display: inline-block;">
-                                   @await Html.PartialAsync("GoalViewParticial", entity)
-                               </form>
-                           }
-                           else if (entity.Category == "Общее")
-                           {
-                               <form class="p-2 form-group border border-light rounded bg-dark col-4 " style="display: inline-block;">
-                                   @await Html.PartialAsync("GoalViewParticial", entity)
-                               </form>
-                           }
-                           else if (entity.Category == "Дедлайн")
-                           {
-                               <form class="p-2 form-group border border-light rounded bg-danger col-4 " style="display: inline-block;">
-                                   @await Html.PartialAsync("GoalViewParticial", entity)
-                               </form>
-                           }
-                           else if (entity.Category == "Дела на сегодня")
-                           {
-                               <form class="p-2 form-group border border-light rounded bg-info col-4 " style="display: inline-block;">
-                                   @await Html.PartialAsync("GoalViewParticial", entity)
-                               </form>
-                           }
+    <h2>Your tasks,@Model.UserName</h2>
+    <div>
+        
+        <div class="div-box">
+            <a class="btn btn-primary" asp-area="User" asp-controller="Goals" asp-action="Edit" asp-route-id="">
+                Add task
+            </a>
+        </div>
+        
+            @if (Model.Goals != null)
+             {
+                 <div class="goalsArea">
+                        @if (Model.Goals.Where(x => x.Category == "For every day").Any(x => x.Category == "For every day"))
+                        {
+                            <p><h4>For every day:</h4></p>
+                            @foreach (var goal in Model.Goals.Where(x => x.Category == "For every day"))
+                            {
 
-                           
-      }
-       </div>
-                 }
-       </div>
+                                <form class="p-2 form-group border border-warning rounded bg-warning col-3 " style="display: inline-block;">
+                                    @await Html.PartialAsync("GoalViewParticial", goal)
+                                </form>
+                            }
+                            <br />
+                        }
+                        @if (Model.Goals.Where(x => x.Category == "Deadline").Any(x => x.Category == "Deadline"))
+                        {
+                            <p><h4>Deadline:</h4></p>
+                            @foreach (var goal in Model.Goals.Where(x => x.Category == "Deadline"))
+                            {
+
+                                <form class="p-2 form-group border border-danger rounded bg-danger col-3 " style="display: inline-block;">
+                                    @await Html.PartialAsync("GoalViewParticial", goal)
+                                </form>
+                            }
+                            <br />
+                        }
+                        @if (Model.Goals.Where(x => x.Category == "For today").Any(x => x.Category == "For today"))
+                        {
+                            <p><h4>For today:</h4></p>
+                            @foreach (var goal in Model.Goals.Where(x => x.Category == "For today"))
+                            {
+
+                                <form class="p-2 form-group border border-info rounded bg-info col-3 " style="display: inline-block;">
+                                    @await Html.PartialAsync("GoalViewParticial", goal)
+                                </form>
+                            }
+                            <br />
+                        }
+                        @if (Model.Goals.Where(x => x.Category == "General").Any(x => x.Category == "General"))
+                        {
+                            <p><h4>General:</h4></p>
+                            @foreach (var goal in Model.Goals.Where(x => x.Category == "General"))
+                            {
+
+                                <form class="p-2 form-group border border-dark rounded bg-dark col-3 " style="display: inline-block;">
+                                    @await Html.PartialAsync("GoalViewParticial", goal)
+                                </form>
+                            }
+                            <br />
+                        }
+
+                  </div>
+             }
+    </div>
 
       
 </div>

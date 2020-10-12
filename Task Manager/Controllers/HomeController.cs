@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
@@ -13,15 +14,22 @@ namespace Task_Manager.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+        private readonly DataManager manager;
+    
+        public HomeController(ILogger<HomeController> logger,DataManager dataManager)
         {
             _logger = logger;
+            manager = dataManager;
         }
 
         public IActionResult Index()
         {
-            return View();
+
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var user = manager.Users.GetUserById(userId);
+            user.Goals = manager.Goals.GetUserGoals(userId);
+
+            return View(user);
         }
 
         public IActionResult Privacy()
@@ -37,7 +45,7 @@ namespace Task_Manager.Controllers
 
         public IActionResult Contacts()
         {
-            return View(new Config());
+            return View();
         }
     }
 }

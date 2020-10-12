@@ -18,10 +18,10 @@ namespace Task_Manager.Areas.User.Controllers
 
         public IEnumerable<string> categories = new List<string>
         {
-            "Каждый день" ,
-            "Дедлайн",
-            "Дела на сегодня",
-            "Общее"
+            "For every day" ,
+            "Deadline",
+            "For today",
+            "General"
         };
 
         public GoalsController(DataManager manager)
@@ -31,13 +31,13 @@ namespace Task_Manager.Areas.User.Controllers
        public IActionResult Index(int id)
        {
             var entity = dataManager.Goals.GetGoalById(id);
-            ViewBag.Categories = categories;
             return View(entity);
         }
 
 
         public IActionResult Edit(int id)
         {
+            
             var entity = id == default ? new Goal() : dataManager.Goals.GetGoalById(id);
             ViewBag.Categories = new SelectList(categories);
             return View(entity);
@@ -62,11 +62,32 @@ namespace Task_Manager.Areas.User.Controllers
             return View(goal);
         }
 
-        public void Delete(int id)
+
+
+        [HttpGet]
+        [ActionName("Delete")]
+        public async Task<IActionResult> ConfirmDelete(int id)
         {
-                dataManager.Goals.DeleteGoal(id);
-                //return View();
-            
+            if (id != null)
+            {
+                Goal goal = dataManager.Goals.GetGoalById(id);
+                if (goal != null)
+                    return View(goal);
+            }
+            return NotFound();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Delete(int id)
+        {
+            if (id != null)
+            {
+                Goal goal = new Goal { Id = id };
+                dataManager.Goals.DeleteGoal(goal);
+                return RedirectToAction("Index","Home");
+    
+            }
+            return View(dataManager.Goals.GetGoalById(id));
         }
     }
 }
