@@ -24,12 +24,17 @@ namespace Task_Manager.Controllers
 
         public IActionResult Index()
         {
+            if (User.Identity.IsAuthenticated)
+            {
+                var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
 
-            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
-            var user = manager.Users.GetUserById(userId);
-            user.Goals = manager.Goals.GetUserGoals(userId);
+                var user = manager.Users.GetUserById(userId);
+                user.Goals = manager.Goals.GetUserGoals(userId);
 
-            return View(user);
+                return View(user);
+            }
+            else
+                return View();
         }
 
         public IActionResult Privacy()

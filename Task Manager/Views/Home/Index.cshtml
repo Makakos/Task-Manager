@@ -1,4 +1,5 @@
-﻿@{
+﻿@model User
+@{
     ViewData["Title"] = "Home Page";
 }
 
@@ -22,8 +23,8 @@
 
     else
     {
-        <a class="btn btn-primary" asp-controller="Account" asp-action="Login">Вход</a>
-        <a class="btn btn-primary" asp-controller="Account" asp-action="Registration">Регистрация</a>
+        <a class="btn btn-primary" asp-controller="Account" asp-action="Login">Login</a>
+        <a class="btn btn-primary" asp-controller="Account" asp-action="Registration">Registration</a>
     }
 
 </div>

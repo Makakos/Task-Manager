@@ -56,6 +56,8 @@ namespace Task_Manager.Controllers
             }
             return View(model);
         }
+
+
         [HttpGet]
         public IActionResult Login(string returnUrl)
         {
@@ -82,6 +84,8 @@ namespace Task_Manager.Controllers
             }
             return View(model);
         }
+
+       
 
         [Authorize]
         public IActionResult Logout()

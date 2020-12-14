@@ -21,6 +21,7 @@ namespace Task_Manager.Models
         [Required]
         [Display(Name = "Password")]
         [DataType(DataType.Password)]
+        [MinLength(6,ErrorMessage ="Password length must be at least 6 symbols")]
         public string Password { get; set; }
 
         [Required]
